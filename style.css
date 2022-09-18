@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(175, 214, 214);
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    text-transform: uppercase;
+    color: blue;
+    text-shadow: black 0px 35px 5px;
+}
+
+h3 {
+    color: hsla(57, 100%, 65%, 1);
+    background-color: green;
+    border: 2px dotted black;
+}
+
+ul {
+    font-size: 22px;
+    list-style-type: none;
+    font-family: sans-serif;
+}
+
+ol {
+    font-size: 20px;
+    color: red;
+    text-align: left;
+}
+
+p {
+    color: #333;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+img {
+    height: auto;
+    width: 300px;
+}
